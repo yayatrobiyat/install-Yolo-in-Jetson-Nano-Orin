@@ -30,7 +30,7 @@ pip install numpy==1.26.4
 pip install opencv-python==4.10.0.82
 
 
-# Install special versions of torch and torchvision (compatible with Jetpack 6.1)
+# Install special versions of torch and torchvision (compatible with Jetpack 6.2)
 pip install https://github.com/ultralytics/assets/releases/download/v0.0.0/torch-2.5.0a0+872d972e41.nv24.08-cp310-cp310-linux_aarch64.whl
 pip install https://github.com/ultralytics/assets/releases/download/v0.0.0/torchvision-0.20.0a0+afc54f7-cp310-cp310-linux_aarch64.whl
 
