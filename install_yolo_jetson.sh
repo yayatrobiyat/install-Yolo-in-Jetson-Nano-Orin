@@ -22,6 +22,9 @@ else
     exit 1
 fi
 
+# Install pip
+sudo apt install python3-pip -y
+pip install -U pip
 
 # Install Ultralytics and other required packages
 pip install ultralytics
