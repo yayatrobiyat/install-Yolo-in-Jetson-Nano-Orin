@@ -48,4 +48,7 @@ sudo apt-get -y install libcusparselt0 libcusparselt-dev
 # Install onnxruntime-gpu
 pip install https://github.com/ultralytics/assets/releases/download/v0.0.0/onnxruntime_gpu-1.23.0-cp310-cp310-linux_aarch64.whl
 
-echo "Ultralytics YOLO installation successful!"
+#Install Jtop
+sudo pip3 install -U jetson-stats
+
+echo "Ultralytics YOLO installation successful!....Please Reboot....!!"
